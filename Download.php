@@ -1,4 +1,4 @@
 {
   "version": "0.01",
-  "url": "https://raw.githubusercontent.com/hkgjdh/HK-CHEATS-LOADER-V2/main/libHKCHEATS.so"
+  "url": "https://raw.githubusercontent.com/hkgjdh/TS-VIP-LOADER/main/libHKCHEATS.so"
 }
